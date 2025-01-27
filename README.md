@@ -1,4 +1,4 @@
 # variable_font_exercice1
 
 url de mon site :
-https://thiingyx.github.io/battle_font_2/
+https://thiingyx.github.io/battle_font_/
